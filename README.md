@@ -9,7 +9,7 @@
 
 1. Установите необходимые библиотеки, выполнив следующие команды:
 
-```bash
+```python
 %pip install tensorflow_io==0.31.0
 %pip install tensorflow==2.11.0
 %pip install tensorflow_hub
