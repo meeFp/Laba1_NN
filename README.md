@@ -13,3 +13,10 @@
 %pip install tensorflow_io==0.31.0
 %pip install tensorflow==2.11.0
 %pip install tensorflow_hub
+```
+
+```python
+import spacy
+import numpy as np
+nlp = spacy.load("en_core_web_md")
+```
