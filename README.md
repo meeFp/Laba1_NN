@@ -15,25 +15,24 @@
 1. Скачайте датасет ESC-50([ESC-50](https://github.com/karolpiczak/ESC-50))
 2. Разархивируйте скачанный архив и поместите в гугл диск
 3. Установите необходимые библиотеки, выполнив следующие команды:
+   ```python
+    %pip install tensorflow_io==0.31.0
+    %pip install tensorflow==2.11.0
+    %pip install tensorflow_hub
+    ```
 
-  ```python
-  %pip install tensorflow_io==0.31.0
-  %pip install tensorflow==2.11.0
-  %pip install tensorflow_hub
-  ```
+    ```python
+    import os
 
-  ```python
-  import os
+    from IPython import display
+    import matplotlib.pyplot as plt
+    import numpy as np
+    import pandas as pd
 
-  from IPython import display
-  import matplotlib.pyplot as plt
-  import numpy as np
-  import pandas as pd
-
-  import tensorflow as tf
-  import tensorflow_hub as hub
-  import tensorflow_io as tfio
-  ```
+    import tensorflow as tf
+    import tensorflow_hub as hub
+    import tensorflow_io as tfio
+    ```
 4. Загрузить модель YAMNet:
    ```python
     yamnet_model_handle = 'https://tfhub.dev/google/yamnet/1'
