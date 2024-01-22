@@ -44,7 +44,7 @@
 - Проект предоставляет инструкции по обучению собственной нейронной сети и тестированию собственных аудиофайлов
 - Реализована предобработка данных, обучение модели и оценка результатов
 ## Запуск кода:
-Скачайте файл **laba1_NNtrain.ipynb** и запустите его с использованием python-ноутбука ([Jupyter](https://jupyter.org), [Google Colab](https://colab.research.google.com/), [Kaggle](https://www.kaggle.com/) или другие).
+Скачайте файл **laba1_NNtrain.ipynb** и запустите его с использованием python-ноутбука ([Google Colab](https://colab.research.google.com/)).
 
 Или можете открыть его сразу в Colab:
 <br><br>
