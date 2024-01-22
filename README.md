@@ -43,5 +43,12 @@
 - Используется модель YAMNet для извлечения вложений из аудиофайлов
 - Проект предоставляет инструкции по обучению собственной нейронной сети и тестированию собственных аудиофайлов
 - Реализована предобработка данных, обучение модели и оценка результатов
--  
+## Запуск кода:
+Скачайте файл **laba1_NNtrain.ipynb** и запустите его с использованием python-ноутбука ([Jupyter](https://jupyter.org), [Google Colab](https://colab.research.google.com/), [Kaggle](https://www.kaggle.com/) или другие).
+
+Или можете открыть его сразу в Colab:
+<br><br>
+<a target="_blank" href="https://colab.research.google.com/github/meeFp/Laba1_NN/blob/main/laba1_NNtrain.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
