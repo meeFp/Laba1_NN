@@ -55,16 +55,26 @@
 
 ## Результаты:
 - Обнаружение нового класса собака
+  [lay-sobaki.webm](https://github.com/meeFp/Laba1_NN/assets/119287468/5f016740-6d19-4588-8aa0-95c385bfe39b)
+
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/626c9601-0cf3-4d78-8b39-ec270a68b96a)
   
-
-https://github.com/meeFp/Laba1_NN/assets/119287468/3ca17a5a-824c-4803-9880-2cb8ee85717a
-
-
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/492f0507-4023-4a90-a8ed-460905b00ebc)
+ 
 - Обнаружение нового класса кот
-  
+  [cat.webm](https://github.com/meeFp/Laba1_NN/assets/119287468/7305634e-7d2f-4ce1-896b-b344c3e783e2)
+
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/b3b467a9-d98e-4f57-9817-ee0ebe4558ad)
+
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/be936584-f355-4584-a24d-52e11490fbe2)
+
 - Обнаружение старого класса телефонный звонок
-  https://github.com/meeFp/Laba1_NN/blob/main/Результат_rington.mp4
-  
+  [klassicheskiy-zvonok-telefona-33191.webm](https://github.com/meeFp/Laba1_NN/assets/119287468/1897180b-2710-4930-a687-d33f85acf455)
+
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/31c7532b-322a-4616-a868-cbead7f29af4)
+
+  ![image](https://github.com/meeFp/Laba1_NN/assets/119287468/204479f2-37f4-46ba-bcfa-d5efaf8d6741)
+
 После обучения модели и её тестирования мы успешно достигли точности классификации для звуковых сигналов собак и кошек. Полученные результаты демонстрируют эффективность разработанной модели в автоматическом выделении и классификации звуковых сигналов.
 
 
