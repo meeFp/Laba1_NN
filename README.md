@@ -16,7 +16,14 @@
 ```
 
 ```python
-import spacy
+import os
+
+from IPython import display
+import matplotlib.pyplot as plt
 import numpy as np
-nlp = spacy.load("en_core_web_md")
+import pandas as pd
+
+import tensorflow as tf
+import tensorflow_hub as hub
+import tensorflow_io as tfio
 ```
