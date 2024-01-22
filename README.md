@@ -12,7 +12,7 @@
 - tensorflow_io
 
 ## Инструкции по установке:
-1. Скачайте датасет ESC-50: https://github.com/karolpiczak/ESC-50 
+1. Скачайте датасет ESC-50([ESC-50](https://github.com/karolpiczak/ESC-50)) 
 
 2. Установите необходимые библиотеки, выполнив следующие команды:
 
