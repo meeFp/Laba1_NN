@@ -55,9 +55,13 @@
 
 ## Результаты:
 - Обнаружение нового класса собака
-  https://github.com/meeFp/Laba1_NN/blob/main/Результат_dog.mp4
+  
+
+https://github.com/meeFp/Laba1_NN/assets/119287468/3ca17a5a-824c-4803-9880-2cb8ee85717a
+
+
 - Обнаружение нового класса кот
-  https://github.com/meeFp/Laba1_NN/blob/main/Результат_cat.mp4
+  
 - Обнаружение старого класса телефонный звонок
   https://github.com/meeFp/Laba1_NN/blob/main/Результат_rington.mp4
   
